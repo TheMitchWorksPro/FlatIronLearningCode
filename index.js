@@ -28,7 +28,7 @@
 
 /*
 note:
-   these globals were moved later in code
+   these globals were moved later in code during testing
    and still worked ... 
 */
 
