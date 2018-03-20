@@ -7,7 +7,7 @@ presented in this project:
 
 /static - first they show us in class how to create the static shape that will be animated by the end of class<br/>
 /original - the animated circle in a box that got created by the end of the 2 hour class<br/>
-/tmwp - TheMitchWorksPro coding enhancements and modifications I made after class
+/ - TheMitchWorksPro coding enhancements and modifications I made after class are in the root folder
 + this final version reuses the shape in a function
 + provides some different behaviors for the animation
 + integrates the behavior with URL parameters
