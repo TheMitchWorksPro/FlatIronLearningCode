@@ -20,8 +20,9 @@ To test the final code, these hyperlinks include appropriate parameters to test 
 4. circle behavior 2, click once to stop and again to continue animation
 5. circle behavior 3, each click affects the circle and randomly changes its color
 6. circle behavior 3, click once to stop and again to continue animation
-// (https://rawgit.com/TheMitchWorksPro/FlatIronLearningCode/blob/master/index.html?runModeToggle=1&runModeToggle2=1)
-// http://htmlpreview.github.com/?https://github.com/ ...
+
+[comment]: <>  (https://rawgit.com/TheMitchWorksPro/FlatIronLearningCode/blob/master/index.html?runModeToggle=1&runModeToggle2=1)
+[comment]: <>  http://htmlpreview.github.com/?https://github.com/ ...
 
 ## Testing This Code
 There is a [web tool](https://repl.it/repls/GentleFrizzyCubase) you can use for free to experiment with the original code 
