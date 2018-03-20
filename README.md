@@ -13,6 +13,9 @@ presented in this project:
 + integrates the behavior with URL parameters
 + under the covers, it reduces the risk of the same color being randomly generated twice in a row
 
+To test the enhanced code, you will need to download the files from the root of this project, and test locally with parameters in the URL (the page does not work right unless the parameters are set).  Instructions are provided in the comments of `index.js`.  
+
+<!--
 To test the final code, these hyperlinks include appropriate parameters to test all the variations:
 1. circle behavior 1, each click affects the circle and randomly changes its color
 2. circle behavior 1, click once to stop and again to continue animation
@@ -20,6 +23,9 @@ To test the final code, these hyperlinks include appropriate parameters to test 
 4. circle behavior 2, click once to stop and again to continue animation
 5. circle behavior 3, each click affects the circle and randomly changes its color
 6. circle behavior 3, click once to stop and again to continue animation
+
+[circle behavior 1](http://htmlpreview.github.com/?https://github.com/TheMitchWorksPro/FlatIronLearningCode/blob/master/index.html?runModeToggle=1&runModeToggle2=1)
+-->
 
 <!--
   (https://rawgit.com/TheMitchWorksPro/FlatIronLearningCode/blob/master/index.html?runModeToggle=1&runModeToggle2=1)
