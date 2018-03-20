@@ -19,13 +19,17 @@
 
 */
 
-/* note:
-   these globals were moved later in code
-   and still worked
+/* To RUN THIS CODE:
 
-   To run this code, use these parameters on the URL:
-   file:///Users/mitchmac/Desktop/flat-iron-code_2018-03-17/index.html?runModeToggle=0&runModeToggle2=1
+   To run this code, use these parameters on the URL as in this example:
+   file:///<your_path>/index.html?runModeToggle=0&runModeToggle2=1
      use 0 or 1 for first paramater, and 1, 2, or 3 for second parameter
+*/
+
+/*
+note:
+   these globals were moved later in code
+   and still worked ... 
 */
 
 var initCircleSize = 10;    
