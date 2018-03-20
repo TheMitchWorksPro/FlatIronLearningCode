@@ -5,8 +5,8 @@ This project was initiated after attending a 2 day free class through the [Acces
 initiative of The [Flatiron School](https://flatironschool.com).  Different versions of the P5 JavaScript code are 
 presented in this project:
 
-/static - first they show us in class how to create the static shape that will be animated by the end of class<br/>
-/original - the animated circle in a box that got created by the end of the 2 hour class<br/>
+/[static](./static/) - first they show us in class how to create the [static shape](https://github.com/TheMitchWorksPro/FlatIronLearningCode/blob/master/index.html) that will be animated by the end of class<br/>
+/[original](./original/) - the animated circle in a box that got created by the end of the 2 hour class<br/>
 / - TheMitchWorksPro coding enhancements and modifications I made after class are in the root folder
 + this final version reuses the shape in a function
 + provides some different behaviors for the animation
